@@ -106,21 +106,8 @@ Also requires `tkinter` (for the GUI).
 
 ---
 
-## 🧠 Tips
-
-- You can use this setup to zoom in on specific band features by using dense sampling around symmetry points.
-- Ideal for analyzing band gaps < 0.1 eV.
-
----
-
 ## 📄 License
 
 MIT License — Free to use, modify, and share.
 
 ---
-
-## 👨‍💻 Author
-
-Developed by [Your Name or GitHub Handle].
-
-Please cite or link this repo if you use it in published work.
